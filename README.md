@@ -26,3 +26,6 @@ This course has been instrumental in my understanding of the connection of the c
 
 ![Edit](https://github.com/Kyle-Conley/TravelerWeb/assets/101020171/8c2e0310-ae9d-4de1-a93d-7f2ae1604ed6)
 
+
+![EditAdd](https://github.com/Kyle-Conley/TravelerWeb/assets/101020171/61d94b0c-8bce-40e4-88b1-ddaa5694fd74)
+
