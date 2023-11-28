@@ -19,6 +19,9 @@ This course has been instrumental in my understanding of the connection of the c
 
 ![DashSnip](https://github.com/Kyle-Conley/TravelerWeb/assets/101020171/778cdf4a-e443-4586-bdb0-7cab86582f2f)
 
+
+![Dash2](https://github.com/Kyle-Conley/TravelerWeb/assets/101020171/df5f0bac-1fef-4d27-b975-dfeff589dc91)
+
 ![LoginSnip](https://github.com/Kyle-Conley/TravelerWeb/assets/101020171/323a32e4-bde5-4368-89eb-08360b41c912)
 
 ![Add](https://github.com/Kyle-Conley/TravelerWeb/assets/101020171/2e58a064-6e75-4f5f-8a60-b390e7008f0a)
