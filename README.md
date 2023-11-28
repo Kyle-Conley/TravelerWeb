@@ -21,7 +21,8 @@ This course has been instrumental in my understanding of the connection of the c
 
 ![LoginSnip](https://github.com/Kyle-Conley/TravelerWeb/assets/101020171/323a32e4-bde5-4368-89eb-08360b41c912)
 
+![Add](https://github.com/Kyle-Conley/TravelerWeb/assets/101020171/2e58a064-6e75-4f5f-8a60-b390e7008f0a)
 
-![TripSnip](https://github.com/Kyle-Conley/TravelerWeb/assets/101020171/bcb56c44-26e0-4f27-bc72-e05ac5a90a30)
 
+![Edit](https://github.com/Kyle-Conley/TravelerWeb/assets/101020171/8c2e0310-ae9d-4de1-a93d-7f2ae1604ed6)
 
