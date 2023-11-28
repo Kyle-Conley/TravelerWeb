@@ -16,3 +16,7 @@ In a full-stack application, the effectiveness of the system's structure and sec
 Reflection
 
 This course has been instrumental in my understanding of the connection of the components of a functioning full-stack web application. Working on the MEAN stack for the entire course was very helpful in thoroughly comprehending the dynamic relationships between the RESTful APIs that created seamless communication between each component. This course combined the use of technical knowledge with practical experience, which I believe was extremely helpful.  Going forward, I plan to sharpen these skills so that I can successfully and securely contribute to advanced web development projects. 
+
+![DashSnip](https://github.com/Kyle-Conley/TravelerWeb/assets/101020171/778cdf4a-e443-4586-bdb0-7cab86582f2f)
+
+
